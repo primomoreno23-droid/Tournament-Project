@@ -1,3 +1,11 @@
+Official Backlog:
+Priority - Difficulty - What
+1 - 5 - Make the object class to store: Name
+2 - 2 - Get user input to create teams
+3 - 3 - Store user input in array
+4 - 3 - Code to output to user what 2 teams are playing an get who won
+5 - 4 - Move loser to loser array
+
 Leagues & Tournaments
 More specifically:
 • An application to manage organized competitions
