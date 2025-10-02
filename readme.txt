@@ -9,6 +9,7 @@ DONE 10/1/2025 11:54pm
 
 
 As a Tournament organizer, I would like to be able to assign one of 4 courts to each match.
+-- blocked by pool class
 
 
 
@@ -45,5 +46,6 @@ As a Tournament organizer, I would like to be able to assign one of 4 courts to 
 14
 15
 16
+
 
 
