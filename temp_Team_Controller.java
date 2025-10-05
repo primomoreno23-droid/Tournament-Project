@@ -48,7 +48,7 @@ public class temp_Team_Controller {
             System.out.println("round 1");
             tournament.createBracket();
             System.out.println("round 2");
-            tournament.runRound(testerTeamA, testerTeamC, testerTeamE, testerTeamG, testerTeamI, team)
+            //tournament.runRound(testerTeamA, testerTeamC, testerTeamE, testerTeamG, testerTeamI, team)
 
     }
 
